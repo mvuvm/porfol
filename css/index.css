@@ -16,7 +16,12 @@
      background:linear-gradient(to bottom, #000,#3c3b3f,#000);
     color: #c4c3ca;
      font-family: 'Muli','IBM Plex Sans KR', sans-serif;
+     scrollbar-width: thin;
  }
+ ::-webkit-scrollbar { width: 10px; }
+ ::-webkit-scrollbar-track { background:#000 }
+ ::-webkit-scrollbar-thumb { background: #3c3b3f; border-radius: 10px;}
+
  ::selection {
      background-color: #000;
    color: #fff;
