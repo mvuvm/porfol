@@ -1019,16 +1019,21 @@
     background-size: 30rem;
   }
   .container--2 .con_modal{
-    background:url(../images/annasui1.jpg);
+    background:url(../images/wimp1.jpg);
     background-position: top center;
     background-size: 30rem;
   }
   .container--3 .con_modal{
-    background:url(../images/madforgarlic1.jpg);
+    background:url(../images/annasui1.jpg);
     background-position: top center;
     background-size: 30rem;
   }
   .container--4 .con_modal{
+    background:url(../images/madforgarlic1.jpg);
+    background-position: top center;
+    background-size: 30rem;
+  }
+  .container--5 .con_modal{
     background:url(../images/magilogi1.jpg);
     background-position: top center;
     background-size: 30rem;
@@ -1069,18 +1074,24 @@
     box-shadow: 0 0 3rem .5rem hsla(0, 0%, 0%, .2);
   }
   .container--2 .con2{
-    background:url(../images/annasui2.jpg);
+    background:url(../images/wimp2.jpg);
     background-position: top center;
     background-size: 15rem;
     box-shadow: 0 0 3rem .5rem hsla(0, 0%, 0%, .2);
   }
   .container--3 .con2{
-    background:url(../images/madforgarlic2.jpg);
+    background:url(../images/annasui2.jpg);
     background-position: top center;
     background-size: 15rem;
     box-shadow: 0 0 3rem .5rem hsla(0, 0%, 0%, .2);
   }
   .container--4 .con2{
+    background:url(../images/madforgarlic2.jpg);
+    background-position: top center;
+    background-size: 15rem;
+    box-shadow: 0 0 3rem .5rem hsla(0, 0%, 0%, .2);
+  }
+  .container--5 .con2{
     background:url(../images/magilogi2.jpg);
     background-position: top center;
     background-size: 15rem;
@@ -1111,12 +1122,14 @@
   }
   .container--1 h3{color: #ffc82f;}
   .container--1 li{background: #ffc82f;}
-  .container--2 h3{color: #9077b9;}
-  .container--2 li{background: #9077b9;}
-  .container--3 h3{color: #ac8e6a;}
-  .container--3 li{background: #ac8e6a;}
-  .container--4 h3{color: #64cfe3;}
-  .container--4 li{background: #64cfe3;}
+  .container--2 h3{color: #ec56c7;}
+  .container--2 li{background: #ec56c7;}
+  .container--3 h3{color: #9077b9;}
+  .container--3 li{background: #9077b9;}
+  .container--4 h3{color: #ac8e6a;}
+  .container--4 li{background: #ac8e6a;}
+  .container--5 h3{color: #64cfe3;}
+  .container--5 li{background: #64cfe3;}
 
   
   .wrap:hover .container::before,
