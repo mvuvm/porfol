@@ -1146,6 +1146,15 @@
     font-size: 1.6rem;
   }
 
+  .hover-target{
+    cursor: pointer;
+    color: #fff;
+    text-transform: uppercase;
+  }
+  .hover-target:hover{
+    text-shadow: 0px 0px 10px #fff;
+  }
+
 
   /*가로 스크롤*/
 
